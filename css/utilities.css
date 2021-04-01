@@ -50,7 +50,7 @@
 .bg-light,
 .btn-light {
     background-color: var(--light-color);
-    color: white;
+    color: black;
 }
 
 .bg-dark,

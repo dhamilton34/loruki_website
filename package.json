@@ -1,0 +1,20 @@
+{
+  "name": "loruki_website",
+  "version": "1.0.0",
+  "description": "Traversy Media Loruki Website Project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch scss -o css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhamilton34/loruki_website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhamilton34/loruki_website/issues"
+  },
+  "homepage": "https://github.com/dhamilton34/loruki_website#readme"
+}
